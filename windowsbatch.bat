@@ -1,3 +1,2 @@
-echo "Another chagne to trigger"
-echo "editing to trigger next build"
+echo "This file was edited in GitHub @ %Time%"
 
