@@ -1,2 +1,2 @@
 Write-Host "Hello World!"
-Write-Hoste "Today's Date:" | Get-Date
+Write-Host "Today's Date:" | Get-Date
